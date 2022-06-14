@@ -1,0 +1,9 @@
+*.plan
+*.so
+*.d
+build
+*.cache
+*.npy
+*.onnx
+*.txt
+__pycache__
